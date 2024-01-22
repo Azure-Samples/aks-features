@@ -134,7 +134,7 @@ cat azure.json
 #   "subscriptionId": "82f6d75e-85f4-434a-ab74-5dddd9fa8910",
 #   "resourceGroup": "rg-dns-zone-houssem-cloud",
 #   "aadClientId": "9cc6c0d1-99a3-4d86-9df4-a84df55b8232",
-#   "aadClientSecret": "LJS8Q~ZeuAPJfE7Hjzy6bYZ8NQ4O5YrlJfATxbL6"
+#   "aadClientSecret": "xxxxxxxx~xxxxxxxxxxxxxxxxxxxxxx"
 # }
 ```
 
