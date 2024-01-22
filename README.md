@@ -1,2 +1,2 @@
-# AKS Features
+# aks-features
 Showcasing Azure AKS features
